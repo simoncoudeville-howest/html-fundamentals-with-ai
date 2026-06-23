@@ -55,6 +55,8 @@ Good prompts get better results. Follow this structure:
 
 4. Take note of what worked well in your prompt and what you might change next time.
 
+5. In your issue comment, include this exact phrase to complete the step: `I completed Step 3`
+
 <details>
 <summary>Having trouble? 🤷</summary><br/>
 

@@ -67,6 +67,7 @@ In these examples:
 2. Document your learning by commenting:
    - The three most common content tags and what they do
    - One example of an attribute and how it's used
+  - Include this exact phrase anywhere in your comment: `I completed Step 2`
 
 <details>
 <summary>Having trouble? 🤷</summary><br/>

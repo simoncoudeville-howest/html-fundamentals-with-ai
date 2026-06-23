@@ -103,6 +103,7 @@ You'll review HTML with accessibility issues and ask AI to help improve it.
    - What is semantic HTML and why is it important?
    - What does alt text do for images?
    - Why should link text be descriptive?
+  - Include this exact phrase anywhere in your comment: `I completed Step 4`
 
 <details>
 <summary>Having trouble? 🤷</summary><br/>

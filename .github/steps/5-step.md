@@ -50,6 +50,7 @@ Follow these steps to build a personal portfolio page with AI assistance:
    - An explanation of at least 5 HTML tags used and their purposes
    - One thing that surprised you about working with AI to build HTML
    - One concept from this exercise you'd like to learn more about
+   - This exact phrase: `I completed Step 5`
 
 5. **Make Optional Improvements (Challenge):**
 

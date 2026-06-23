@@ -15,11 +15,11 @@ Here's a recap of your accomplishments:
 
 ### What's next?
 
-- **CSS Styling**: Learn how to style HTML with CSS to make pages visually appealing
-- **JavaScript Interactivity**: Add interactive features to your HTML pages
+- **HTML Forms**: Learn how to collect user input with form elements
+- **HTML Tables and Media**: Learn how to organize data and embed media content
 - **Web Accessibility**: Dive deeper into building accessible web experiences
 - **HTML Documentation**: [MDN Web Docs - HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
-- **Modern Web Development**: Continue your web development journey with HTML, CSS, and JavaScript
+- **Semantic HTML in Practice**: Keep improving page structure with meaningful tags
 
 ### Tips for Your Learning Journey
 

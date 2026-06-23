@@ -52,6 +52,7 @@ For this activity, you'll examine some HTML and ask an AI assistant to help you 
 3. In an issue comment below, share:
    - One thing you learned about how HTML is structured
    - One thing you learned about how to work with AI to understand code
+  - Include this exact phrase anywhere in your comment: `I completed Step 1`
 
 <details>
 <summary>Having trouble? 🤷</summary><br/>
