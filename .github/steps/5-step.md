@@ -54,9 +54,9 @@ Follow these steps to build a personal portfolio page with AI assistance:
 5. **Make Optional Improvements (Challenge):**
 
    If you want to go further, ask AI:
-   - "How could I add styling to make this more visually appealing?"
    - "What other HTML elements could improve this page?"
-   - "How would I add a working contact form?"
+   - "How would I structure a contact form in HTML?"
+   - "What semantic HTML tags would make this page more accessible?"
 
 <details>
 <summary>Having trouble? 🤷</summary><br/>
@@ -64,7 +64,6 @@ Follow these steps to build a personal portfolio page with AI assistance:
 - Start simple! Your portfolio doesn't need to be fancy—focus on structure and clarity
 - If the AI generates code that looks confusing, ask it to explain each section
 - Make sure the HTML includes proper opening and closing tags
-- Don't worry if your page looks plain without CSS styling—you're learning HTML structure first!
 - If you want to see your page rendered (not just the code), ask AI: "Can you format this as a preview?" or paste the HTML into a simple HTML preview tool online
 
 </details>

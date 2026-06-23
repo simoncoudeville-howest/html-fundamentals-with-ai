@@ -20,7 +20,7 @@ Every HTML page has a basic structure:
 
 **Container Tags** (the main structure):
 - `<html>` - The root element that wraps all content
-- `<head>` - Contains metadata like page title, character encoding, and links to stylesheets
+- `<head>` - Contains metadata like page title and character encoding
 - `<body>` - Contains all the visible content users see
 
 **Content Tags** (common tags you'll see):
