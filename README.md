@@ -1,31 +1,34 @@
-# (replace-me: Exercise title)
+# Understanding HTML Fundamentals with AI
 
-_(replace-me: One-line description of the exercise)_
+_Learn the structure and purpose of HTML by working with AI as your coding partner._
 
 ## Welcome
 
-- **Who is this for**: (replace-me: Target audience description)
-- **What you'll learn**: (replace-me: Learning objectives)
-- **What you'll build**: (replace-me: Description of what the learner will create)
+- **Who is this for**: Beginners with no prior experience with HTML, AI, or coding
+- **What you'll learn**: How to understand HTML structure, work effectively with AI, and recognize common HTML tags and their purposes
+- **What you'll build**: A personal portfolio webpage using AI-generated HTML that follows accessibility best practices
 - **Prerequisites**:
-  - (replace-me: Prerequisite skill/exercise)
-  - (replace-me: Other prerequisites)
+  - Basic web browser usage
+  - Access to GitHub
+  - Access to an AI assistant (ChatGPT, GitHub Copilot, Claude, etc.)
 
-- **How long**: This exercise takes less than (replace-me: estimated time) to complete.
+- **How long**: This exercise takes less than 60 minutes to complete.
 
 In this exercise, you will:
 
-1. (replace-me: Learning objective step #1)
-1. (replace-me: Learning objective step #2)
-1. (replace-me: Learning objective step #N)
+1. Learn what HTML is and how to use AI effectively to work with code
+1. Understand common HTML tags and document structure
+1. Practice reading and interpreting HTML code
+1. Learn about semantic HTML and accessibility principles
+1. Create a personal portfolio page with AI assistance
 
 
 ### How to start this exercise
 
 Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
 
-<!--  (replace-me: Make sure to edit the URL with proper template_owner, template_name, repo name and description)  -->
-[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills&template_name=exercise-template&owner=%40me&name=skills-<replace-me>&description=Exercise:+Replace+me&visibility=public)
+<!--  Make sure to update this after publishing to GitHub -->
+[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills&template_name=html-fundamentals-with-ai&owner=%40me&name=html-fundamentals-with-ai&description=Exercise:+Learn+HTML+Fundamentals+with+AI&visibility=public)
 
 <details>
 <summary>Having trouble? 🤷</summary><br/>

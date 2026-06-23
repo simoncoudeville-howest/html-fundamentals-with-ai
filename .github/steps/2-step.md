@@ -1,36 +1,78 @@
-## Step 2: (replace-me: STEP-NAME)
+## Step 2: Understanding HTML Structure and Common Tags
 
-(replace-me: OPTIONAL Brief story or scenario to introduce the step)
+Now that you understand what HTML is, let's learn about the building blocks—the most common tags you'll encounter.
 
-### 📖 Theory: (replace-me: Theory title)
+### 📖 Theory: HTML Tags and Document Structure
 
-<!-- GitHub-styled notifications can be used outside of ordered lists. Available options are: NOTE, IMPORTANT, WARNING, TIP, CAUTION -->
-<!--
-> [!NOTE]
-> (Important note or additional information relevant to this section)
- -->
+Every HTML page has a basic structure:
 
-(replace-me: Optional theory or background information relevant to this step)
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Metadata goes here -->
+  </head>
+  <body>
+    <!-- Visible content goes here -->
+  </body>
+</html>
+```
 
-(replace-me: OPTIONAL Reference images from the `.github/images/` directory to support any part of the content)
+**Container Tags** (the main structure):
+- `<html>` - The root element that wraps all content
+- `<head>` - Contains metadata like page title, character encoding, and links to stylesheets
+- `<body>` - Contains all the visible content users see
 
-<img width="200" alt="descriptive alt text" src="../images/inflatocat.png" />
+**Content Tags** (common tags you'll see):
+- `<h1>` through `<h6>` - Headings (h1 is the main heading, h6 is the smallest)
+- `<p>` - Paragraph of text
+- `<a>` - Link to another page (uses the `href` attribute)
+- `<img>` - Image (uses the `src` attribute to specify the image file)
+- `<button>` - A clickable button
+- `<div>` - Generic container for grouping content
 
+**Understanding Attributes**:
 
-### ⌨️ Activity: (replace-me: Activity title)
+Tags can have attributes that provide additional information:
 
-1. (replace-me: First instruction)
+```html
+<a href="https://github.com">Click here</a>
+<img src="photo.jpg" alt="A beautiful sunset">
+```
 
-    (replace-me: Make sure to properly indent any multiline instructions)
+In these examples:
+- `href` tells the link where to go
+- `src` tells the image which file to display
+- `alt` provides text to show if the image can't load
 
-1. (replace-me: Second instruction)
+### ⌨️ Activity: Learn Tags Through Examples
 
-1. (replace-me: Additional instructions as needed)
+1. Create an issue comment with your answers to these questions (use an AI assistant to help):
+
+   **Question 1:** Look at this HTML:
+   ```html
+   <h1>My Blog</h1>
+   <p>Welcome to my blog about web development.</p>
+   ```
+   What tag is used for the main heading? What tag is used for regular text?
+
+   **Question 2:** What would happen if you used `<h6>` instead of `<h1>` for your main title? Ask an AI assistant: "In HTML, what's the visual difference between h1 and h6 tags?"
+
+   **Question 3:** Look at this link tag:
+   ```html
+   <a href="https://skills.github.com">Learn GitHub Skills</a>
+   ```
+   What does the `href` attribute do? Try asking AI: "In this HTML link, what does href stand for and why is it important?"
+
+2. Document your learning by commenting:
+   - The three most common content tags and what they do
+   - One example of an attribute and how it's used
 
 <details>
 <summary>Having trouble? 🤷</summary><br/>
 
-- (replace-me: Troubleshooting tip or hint)
-- (replace-me: Additional troubleshooting tips as needed)
+- Headings `<h1>` through `<h6>` are all used for different levels of headings on a page.
+- The `href` attribute in a link specifies the URL (web address) where the link goes.
+- If you're struggling with concepts, copy the example HTML into an AI assistant and ask: "Explain each tag in this HTML and what it does."
 
 </details>
